@@ -7,6 +7,9 @@ This is a repository for integrating the resource of data science.
 #### [mlhub123][2]
 机器学习&深度学习网站资源汇总
 
+#### [算法/深度学习/NLP面试笔记][3]
+2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 
 [1]: http://www.huaxiaozhuan.com/        "华校专" 
 [2]: https://github.com/howie6879/mlhub123        "mlhub123" 
+[3]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese        "imhuay" 
