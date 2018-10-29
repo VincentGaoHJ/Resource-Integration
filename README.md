@@ -10,6 +10,10 @@ This is a repository for integrating the resource of data science.
 #### [算法/深度学习/NLP面试笔记][3]
 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 
+#### [Awesome-pytorch-list][4]
+A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+
 [1]: http://www.huaxiaozhuan.com/        "华校专" 
 [2]: https://github.com/howie6879/mlhub123        "mlhub123" 
 [3]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese        "imhuay" 
+[4]: https://github.com/bharathgs/Awesome-pytorch-list        "bharathgs" 
