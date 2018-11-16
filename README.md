@@ -16,8 +16,12 @@ A comprehensive list of pytorch related content on github,such as different mode
 #### [Tracking Progress in Natural Language Processing][5]
 Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 
+#### [数据竞赛Top解决方案开源整理][6]
+数据竞赛、NLP、CV、大佬的Github、资源整理、数据集。
+
 [1]: http://www.huaxiaozhuan.com/        "华校专" 
 [2]: https://github.com/howie6879/mlhub123        "mlhub123" 
 [3]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese        "imhuay" 
 [4]: https://github.com/bharathgs/Awesome-pytorch-list        "bharathgs" 
 [5]: https://nlpprogress.com/        "Sebastian Ruder" 
+[6]: https://github.com/Smilexuhc/Data-Competition-TopSolution        "Smile" 
