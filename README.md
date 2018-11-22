@@ -19,9 +19,13 @@ Repository to track the progress in Natural Language Processing (NLP), including
 #### [数据竞赛Top解决方案开源整理][6]
 数据竞赛、NLP、CV、大佬的Github、资源整理、数据集。
 
+#### [Your-first-machine-learning-Project---End-to-End-in-Python][7]
+这是一个完整的，端到端的机器学习项目，非常适合有一定基础后拿来练习，以提高对完整机器学习项目的认识;
+
 [1]: http://www.huaxiaozhuan.com/        "华校专" 
 [2]: https://github.com/howie6879/mlhub123        "mlhub123" 
 [3]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese        "imhuay" 
 [4]: https://github.com/bharathgs/Awesome-pytorch-list        "bharathgs" 
 [5]: https://nlpprogress.com/        "Sebastian Ruder" 
 [6]: https://github.com/Smilexuhc/Data-Competition-TopSolution        "Smile" 
+[7]: https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python        "DeqianBai" 
