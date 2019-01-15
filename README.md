@@ -22,6 +22,10 @@ Repository to track the progress in Natural Language Processing (NLP), including
 #### [Your-first-machine-learning-Project---End-to-End-in-Python][7]
 这是一个完整的，端到端的机器学习项目，非常适合有一定基础后拿来练习，以提高对完整机器学习项目的认识;
 
+#### [Interpretable-Machine-Learning][8]
+A Guide for Making Black Box Models Explainable;
+Explaining the decisions and behaviour of machine learning models.
+
 [1]: http://www.huaxiaozhuan.com/        "华校专" 
 [2]: https://github.com/howie6879/mlhub123        "mlhub123" 
 [3]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese        "imhuay" 
@@ -29,3 +33,5 @@ Repository to track the progress in Natural Language Processing (NLP), including
 [5]: https://nlpprogress.com/        "Sebastian Ruder" 
 [6]: https://github.com/Smilexuhc/Data-Competition-TopSolution        "Smile" 
 [7]: https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python        "DeqianBai" 
+[8]: https://christophm.github.io/interpretable-ml-book/        "Christoph-Molnar" 
+
