@@ -26,6 +26,9 @@ Repository to track the progress in Natural Language Processing (NLP), including
 A Guide for Making Black Box Models Explainable;
 Explaining the decisions and behaviour of machine learning models.
 
+#### [awesome-python-login-model][9]
+Python模拟登陆一些大型网站，还有一些简单的爬虫，有的是通过selenium登录，有的是通过抓包直接模拟登录，有的是利用scrapy。
+
 [1]: http://www.huaxiaozhuan.com/        "华校专" 
 [2]: https://github.com/howie6879/mlhub123        "mlhub123" 
 [3]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese        "imhuay" 
@@ -34,4 +37,5 @@ Explaining the decisions and behaviour of machine learning models.
 [6]: https://github.com/Smilexuhc/Data-Competition-TopSolution        "Smile" 
 [7]: https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python        "DeqianBai" 
 [8]: https://christophm.github.io/interpretable-ml-book/        "Christoph-Molnar" 
+[9]: https://github.com/CriseLYJ/awesome-python-login-model       "CriseLYJ" 
 
