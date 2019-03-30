@@ -29,6 +29,9 @@ Explaining the decisions and behaviour of machine learning models.
 #### [awesome-python-login-model][9]
 Python模拟登陆一些大型网站，还有一些简单的爬虫，有的是通过selenium登录，有的是通过抓包直接模拟登录，有的是利用scrapy。
 
+#### [NLP Tutorial][10]
+A list of NLP(Natural Language Processing) tutorials built on PyTorch and keras. Neural Machine Translation & Question-Answer Matching & News Category Classification & Movie Rating Classification (Korean NLP)
+
 [1]: http://www.huaxiaozhuan.com/        "华校专" 
 [2]: https://github.com/howie6879/mlhub123        "mlhub123" 
 [3]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese        "imhuay" 
@@ -38,4 +41,5 @@ Python模拟登陆一些大型网站，还有一些简单的爬虫，有的是�
 [7]: https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python        "DeqianBai" 
 [8]: https://christophm.github.io/interpretable-ml-book/        "Christoph-Molnar" 
 [9]: https://github.com/CriseLYJ/awesome-python-login-model       "CriseLYJ" 
+[10]: https://github.com/lyeoni/nlp-tutorial       "lyeoni" 
 
