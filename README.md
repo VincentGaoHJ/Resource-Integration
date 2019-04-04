@@ -32,6 +32,9 @@ Python模拟登陆一些大型网站，还有一些简单的爬虫，有的是�
 #### [NLP Tutorial][10]
 A list of NLP(Natural Language Processing) tutorials built on PyTorch and keras. Neural Machine Translation & Question-Answer Matching & News Category Classification & Movie Rating Classification (Korean NLP)
 
+#### [chaotbot_corpus_Chinese][11]
+中文公开聊天语料库：该库是对目前市面上已有的开源中文聊天语料的搜集和系统化整理工作
+
 [1]: http://www.huaxiaozhuan.com/        "华校专" 
 [2]: https://github.com/howie6879/mlhub123        "mlhub123" 
 [3]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese        "imhuay" 
@@ -42,4 +45,6 @@ A list of NLP(Natural Language Processing) tutorials built on PyTorch and keras.
 [8]: https://christophm.github.io/interpretable-ml-book/        "Christoph-Molnar" 
 [9]: https://github.com/CriseLYJ/awesome-python-login-model       "CriseLYJ" 
 [10]: https://github.com/lyeoni/nlp-tutorial       "lyeoni" 
+[11]: https://github.com/codemayq/chaotbot_corpus_Chinese       "codemayq" 
+
 
