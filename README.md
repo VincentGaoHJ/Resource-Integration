@@ -35,6 +35,12 @@ A list of NLP(Natural Language Processing) tutorials built on PyTorch and keras.
 #### [chaotbot_corpus_Chinese][11]
 中文公开聊天语料库：该库是对目前市面上已有的开源中文聊天语料的搜集和系统化整理工作
 
+#### [《神经网络与深度学习》][12]
+邱锡鹏老师的新书，本课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。
+
+#### [深度学习500问][13]
+以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。
+
 [1]: http://www.huaxiaozhuan.com/        "华校专" 
 [2]: https://github.com/howie6879/mlhub123        "mlhub123" 
 [3]: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese        "imhuay" 
@@ -46,5 +52,7 @@ A list of NLP(Natural Language Processing) tutorials built on PyTorch and keras.
 [9]: https://github.com/CriseLYJ/awesome-python-login-model       "CriseLYJ" 
 [10]: https://github.com/lyeoni/nlp-tutorial       "lyeoni" 
 [11]: https://github.com/codemayq/chaotbot_corpus_Chinese       "codemayq" 
+[12]: https://nndl.github.io/       "邱锡鹏" 
+[13]: https://github.com/scutan90/DeepLearning-500-questions       "scutan90" 
 
 
